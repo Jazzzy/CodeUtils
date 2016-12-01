@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+
+*main.cpp
+
+*CMake*
+*cmake*
+
+*.idea/
